@@ -1,0 +1,3 @@
+Download t2m.nc and slp.nc from the link below, put them in file "data".
+
+https://nusu-my.sharepoint.com/personal/e0974164_u_nus_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fe0974164%5Fu%5Fnus%5Fedu%2FDocuments%2FPROJECT%5F2420%5FME5311&ga=1
